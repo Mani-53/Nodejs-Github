@@ -1,0 +1,12 @@
+[
+  { "id": 1, "task": "Complete ECET chemistry revision", "status": "pending" },
+  { "id": 2, "task": "Practice molarity and normality problems", "status": "pending" },
+  { "id": 3, "task": "Revise JavaScript event loop concept", "status": "completed" },
+  { "id": 4, "task": "Solve 20 MCQs on jQuery", "status": "pending" },
+  { "id": 5, "task": "Prepare notes for AJAX topics", "status": "pending" },
+  { "id": 6, "task": "Practice C programs (prime & Armstrong)", "status": "completed" },
+  { "id": 7, "task": "Review React useEffect concept", "status": "pending" },
+  { "id": 8, "task": "Work on mini project API endpoints", "status": "pending" },
+  { "id": 9, "task": "Revise MongoDB connection concepts", "status": "pending" },
+  { "id": 10, "task": "Update GitHub repo and LinkedIn post", "status": "pending" }
+]
