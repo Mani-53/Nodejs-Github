@@ -67,6 +67,6 @@ app.delete("/todos/:id", (req, res) => {
 })
 
 
-app.listen(process.env.PORT || 1000, function (req, res) {
-    console.log("server is running on " + (process.env.PORT || 1000))
+app.listen(process.env.PORT, function (req, res) {
+    console.log("server is running on " + (process.env.PORT))
 })
