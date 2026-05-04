@@ -4,6 +4,8 @@ var cors = require("cors")
 var jwt = require("jsonwebtoken")
 var bodyparser = require("body-parser")
 var app = express()
+var dontenv = require("dotenv")
+dontenv.config()
 
 app.use(bodyparser.urlencoded({ extended: false }))
 app.use(bodyparser.json())
